@@ -1,2 +1,2 @@
 # BBC-Text-Analysis
-Analyse the use of use for bBC news over the period of 10 years
+News media play a central role in shaping public understanding of social, political, and economic events. While news articles aim to communicate factual information , the tone, word choice, and framing embedded in the text can subtly influence how readers interpret what is being reported. Sentiment—whether positive, negative, or neutral—can vary widely across news categories, reflecting the nature of the events covered as well as editorial style. At the same time, large news collections often contain underlying thematic patterns that are not immediately visible without computational analysis.
